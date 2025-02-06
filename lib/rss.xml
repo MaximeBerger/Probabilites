@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Feb 2025 14:28:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Feb 2025 14:28:35 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
+ <br><br> l'univers des issues possibles.<br>
+Un événement est une partie de cet univers. <br> l'ensemble des événements qu'on peut mesurer. <br>
+<br> et  sont dans  
+<br>Stable par passage au complémentaire
+<br>Stable par réunion et intersections dénombrables
+<br><img alt="Capture d’écran 2025-02-06 à 10.08.36.png" src="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png"><br> une mesure sur cet univers <br>
+<br>Associe un nombre positif à chaque élément de  
+<br>Donne la mesure  à  
+<br>Vérifie la propriété de sous additivité :<br>
+<img alt="Capture d’écran 2025-02-06 à 15.26.46.png" src="lib/media/capture-d’écran-2025-02-06-à-15.26.46.png">
+<br> associe un nombre à un sous-ensemble de , comme la fonction longueur associe une mesure à chaque intervalle de .<br>
+Cette fonction est-elle sous-additive ? <br><img alt="Capture d’écran 2025-02-06 à 10.08.53.png" src="lib/media/capture-d’écran-2025-02-06-à-10.08.53.png"><br>Un espace probabilisé est l'ensemble des trois éléments .<br><br>Vous jetez un pot de peinture par terre et mesurez la proportion de sol recouvert par la peinture. <br>L'univers est l'intervalle . <br>
+<br>
+Quelle est la probabilité de tomber sur un nombre entre  et  ?<br>
+<img alt="Capture d’écran 2025-02-06 à 10.09.06.png" src="lib/media/capture-d’écran-2025-02-06-à-10.09.06.png">
+
+<br>
+Quelle est la probabilité de tomber sur le nombre suivant ? <img alt="Capture d’écran 2025-02-06 à 10.09.16.png" src="lib/media/capture-d’écran-2025-02-06-à-10.09.16.png">
+
+<br>On ne pourra pas associer une probabilité à chaque valeur, on pourra seulement calculer la probabilité d'obtenir une valeur comprise entre deux bornes. <br>L'ensemble  n'est pas forcément un ensemble de nombres<br><br>Lancer une infinité de pièces de monnaies équilibrées<br>
+<br>Evénements possibles : <br>
+<br>Il y a une infinité de "Face"
+<br>(Evénements non mesurables : <br>
+<br>La proportion de face ne tend pas vers . )
+<br>Questions: <br>
+<br>
+Quelle serait la probabilité d'obtenir une suite précise ?<br>
+<img alt="Capture d’écran 2025-02-06 à 10.09.29.png" src="lib/media/capture-d’écran-2025-02-06-à-10.09.29.png">
+
+<br>
+Quelle serait la probabilité d'obtenir une suite qui commence par  fois piles ?<br>
+<img alt="Capture d’écran 2025-02-06 à 10.09.45.png" src="lib/media/capture-d’écran-2025-02-06-à-10.09.45.png">
+
+<br><br>L'univers est l'ensemble de toutes les fissures possibles sur une plaque soumise à un stress mécanique<br>Evénement possible : <br>
+<br>Une fissure traverse complètement la plaque
+<br>Question<br>
+<br>Quelle est la probabilité d'obtenir une fissure en particulier ?
+<br><br>L'univers est l'ensemble des formes possibles de déformation d'un pont sous l'effet du traffic. <br>Evénement possible: <br>
+<br>La déformation au centre du pont dépasse celle prévue par le cahier des charges. 
+<br><br>L'univers est l'ensemble des champs de vitesse des écoulements de l'air autour de l'avion<br>Evénement possible: <br>
+<br>Le flux d'air entraîne une turbulence sentie par les passagers
+<br><br>L'univers est l'ensemble des positions d'un ivrogne immortel qui part de l'ESTP. <br>Evénements possibles :<br>
+<br>Au bout de  pas, l'ivrogne se situe à plus de 100m de l'ESTP
+<br>L'ivrogne repasse par l'ESTP plusieurs fois
+<br><br>L'univers est l'ensemble des trajectoires possibles de l'actif.<br>
+Si on se limite à un intervalle de temps ,  est l'ensemble des fonctions continues  <br>Evénement possible : <br>
+<br>le cours de l'actif atteint 10.000 euros
+<br><br>Opérations sur les événements :<br>
+ correspond à la réalisation de "A ou B"<br>
+ correspond à la réalisation de "A et B"<br>
+-&gt;Wooclap<br><br>Si  est une partition de l’univers, alors pour tout événement  :<br>
+<img alt="Capture d’écran 2025-02-06 à 10.10.00.png" src="lib/media/capture-d’écran-2025-02-06-à-10.10.00.png"><br>
+<img alt="Capture d’écran 2025-02-06 à 15.27.04.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.04.png"><br><br>Si  et  sont deux événements avec , la probabilité de  sachant  est définie par :<br>
+<br>idée de base : une information supplémentaire modiﬁe la vraisemblance que l’on accorde à l’événement étudié.<br>
+<img alt="Capture d’écran 2025-02-06 à 15.27.16.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.16.png"><br>Cette définition permet de réécrire la formule des probabilités totales :<br>
+Si  est une partition de l’univers, alors pour tout événement  :<br>
+Exemple:<br>
+L'ESTP est réparti sur 4 sites. Chaque site fait sortir une certaine proportion d'étudiants brillants : <br>
+<br>Dijon : 100% ( des 100 étudiants )
+<br>Cachan : 10% ( des 300 étudiants )
+<br>Troyes : 50% ( des 100 étudiants )
+<br>Orléans : 30% ( des 30 étudiants )
+<br>Un étudiant sort de l'ESTP, quelle est la probabilité qu'il soit brillant ? <br><br>Si  sont des événements de  tels que ,<br><br>Exemple :<br>
+Tirer sans remises  boules rouges dans une urnes contenant  boules rouges et  noires ? <br><br>La formule de Bayes permet d’inverser une probabilité conditionnelle :<br>
+<br>Cette formule est le point de départ de toute une philosophie Bayesienne :<br>
+Si on a une hypothèse  et qu'on observe des données, on peut réécrire la formule<br>
+<br>
+<br>
+ est la vraisemblance des résultats  sous l'hypothèse  
+
+<br>Si cette proba est très petite, c'est que  est peu valable
+<br>Si cette proba est grande, c'est que  décrit bien le phénomène étudié
+
+
+<br>
+ est la plausibilité de l'hypothèse  sachant qu'on a observé ces données, 
+
+<br><br>Dans notre tête, chaque croyance  est associée à une probabilité <br>
+- Faut-il interdire le Glyphosate ?<br>
+- Les extraterrestres existent-ils ?<br>
+- Vais-je avoir une bonne note à l'exam de Proba ?<br>
+- Suis-je contaminé par cette maladie rare ?<br>
+<br>
+A chaque événement, ces probabilités sont modifiées. <br>
+<br>On lit un article sur le glyphosate
+<br>Une soucoupe volante débarque
+<br>Le prof raconte des trucs auxquels je ne comprends rien
+<br>Le test à la maladie est positif
+<br> est réglée a priori, on peut alors calculer la probabilité a posteriori, c'est votre nouvelle probabilité de croire à <br>On a mis à jour la crédence d'une hypothèse  en observant des données. <br>TD 1. Un maître de jeu de rôle possède plusieurs dés : 2, 3, 6, 8 et 10 faces. Il fait un lancé et obtiens un 6, quel dé a-t-il lancé ? <br>Au jeu du loup-Garou, cette personne m'accuse alors que je suis villageois, quelle est la probabilité qu'il soit Loup garou ?<br><br>Deux événements  et  sont dits indépendants si<br>
+<br>C'est une définition fondamentale  :<br>
+La probabilité que  soit réalisé ne change pas si on sait que  est réalisé<br>
+<br><img alt="Capture d’écran 2025-02-06 à 10.10.16.png" src="lib/media/capture-d’écran-2025-02-06-à-10.10.16.png"><br>Ce sera souvent difficile de prouver que deux événements sont indépendants ! Pour le faire, il faut : <br>
+<br>Calculer 
+<br>Calculer 
+<br>Calculer 
+<br>Si le produit des deux premiers est égal au troisième, ils sont indépendants, sinon, ils ne le sont pas. <br><br><br>Une variable aléatoire est une fonction qui associe une valeur numérique à chaque issue d’une expérience aléatoire.<br>
+<br>Ce n'est ni une variable, ni quelque chose d'aléatoire.<br>
+(C'est la pire définition du 21e siècle) <br>C'est une grandeur qui dépend des résultats de l'expérience. <br><br>Une variable est discrète si elle prend un nombre fini ou dénombrable de valeurs.<br>
+<br><br>Une variable est continue si elle peut prendre toute valeur dans un intervalle.<br><br><br>Lancer une infinité de pièces de monnaies équilibrées<br>
+<img alt="Capture d’écran 2025-02-06 à 10.10.38.png" src="lib/media/capture-d’écran-2025-02-06-à-10.10.38.png"><img alt="Capture d’écran 2025-02-06 à 10.10.49.png" src="lib/media/capture-d’écran-2025-02-06-à-10.10.49.png"><br>
+<img alt="Capture d’écran 2025-02-06 à 10.11.05.png" src="lib/media/capture-d’écran-2025-02-06-à-10.11.05.png"><br><br>L'univers est l'ensemble de toutes les fissures possibles sur une plaque soumise à un stress mécanique<br>
+<img alt="Capture d’écran 2025-02-06 à 10.11.17.png" src="lib/media/capture-d’écran-2025-02-06-à-10.11.17.png"><br><br>L'univers est l'ensemble des formes possibles de déformation d'un pont sous l'effet du traffic. <br><br>L'univers est l'ensemble des champs de vitesse des écoulements de l'air autour de l'avion<br><br>L'univers est l'ensemble des positions d'un ivrogne immortel qui part de l'ESTP.<br>
+<img alt="Capture d’écran 2025-02-06 à 10.11.38.png" src="lib/media/capture-d’écran-2025-02-06-à-10.11.38.png"><br><br>L'univers est l'ensemble des trajectoires possibles de l'actif.<br>
+Si on se limite à un intervalle de temps ,  est l'ensemble des fonctions continues  <br><br>Deux variables aléatoires  et  définies sur  sont indépendantes si pour tous intervalles  et ,<br>
+<br>(on aura d'autres moyens pour montrer l'indépendance plus tard)<br><br>Si  est un événement de , on peut définir la variable aléatoire<br>
+Cette variable vaut  si  est réalisé,  sinon. <br><br>Une variable aléatoire contient beaucoup d'information : elle associe une valeur à chaque issue  de l'univers .<br>
+-&gt; C'est un objet difficile à manipuler parce que  peut être très compliqué. <br>L'idée avec la loi, c'est de définir un objet plus simple, mais qui contient quand même l'essence de la variable . <br>La mesure  donne des nombres à des sous ensembles de  :<br>
+<img alt="Capture d’écran 2025-02-06 à 15.27.49.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.49.png"><br>
+<img alt="Capture d’écran 2025-02-06 à 15.27.59.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.59.png"><br>Pour la loi, seules comptent ces mesures. <br><br>Si  sont les valeurs prises par , la loi de  est l'ensemble des couples<br>
+On conserve seulement les images de la fonction  et la taille des sous-ensembles de  qui font que  prenne chaque valeur. <br><img alt="Capture d’écran 2025-02-06 à 15.28.14.png" src="lib/media/capture-d’écran-2025-02-06-à-15.28.14.png">]]></description><link>enseignement/5-probabilites/cm1.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM1.md</guid><pubDate>Thu, 06 Feb 2025 14:28:22 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-06-à-10.08.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

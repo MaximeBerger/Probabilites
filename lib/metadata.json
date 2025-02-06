@@ -1,46 +1,31 @@
 {
   "vaultName": "ESTP",
-  "lastExport": 1738851221850,
+  "lastExport": 1738852115655,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Enseignement/5 - Probabilites/CM1.md",
-    "Ink/Drawing/2025.2.3 - 13.52pm.drawing",
-    "Ink/Drawing/2025.2.4 - 10.19am.drawing",
-    "Ink/Drawing/2025.2.4 - 10.20am.drawing",
-    "Ink/Drawing/2025.2.4 - 15.45pm.drawing",
-    "Ink/Drawing/2025.2.4 - 15.59pm.drawing",
-    "Ink/Drawing/2025.2.5 - 15.10pm.drawing",
-    "Ink/Drawing/2025.2.5 - 16.02pm.drawing",
-    "Ink/Drawing/2025.2.5 - 16.33pm.drawing",
-    "Ink/Drawing/2025.2.5 - 16.39pm.drawing",
-    "Ink/Writing/2025.2.3 - 13.45pm.writing",
-    "Ink/Writing/2025.2.4 - 14.58pm.writing",
-    "Ink/Writing/2025.2.5 - 15.10pm.writing",
-    "Ink/Writing/2025.2.5 - 15.14pm.writing",
-    "Ink/Writing/2025.2.5 - 15.18pm.writing",
-    "Ink/Writing/2025.2.5 - 15.20pm.writing",
-    "Ink/Writing/2025.2.5 - 15.21pm.writing",
-    "Ink/Writing/2025.2.5 - 15.58pm.writing",
-    "Ink/Writing/2025.2.5 - 16.08pm.writing",
-    "Ink/Writing/2025.2.5 - 16.16pm.writing",
-    "Ink/Writing/2025.2.5 - 16.26pm.writing",
-    "Ink/Writing/2025.2.5 - 16.28pm.writing",
     "lib/media/capture-d’écran-2025-02-06-à-10.08.36.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.26.46.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.08.53.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.09.06.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.09.16.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.09.29.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.09.45.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.10.00.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.04.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.16.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.10.16.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.10.38.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.10.49.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.11.05.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.11.17.png",
     "lib/media/capture-d’écran-2025-02-06-à-10.11.38.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.49.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.59.png",
+    "lib/media/capture-d’écran-2025-02-06-à-15.28.14.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -134,489 +119,405 @@
   ],
   "fileInfo": {
     "Enseignement/5 - Probabilites/CM1.md": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 11632,
+      "modifiedTime": 1738852115655,
+      "sourceSize": 11142,
       "exportedPath": "enseignement/5-probabilites/cm1.html",
       "dependencies": [
         "lib/media/capture-d’écran-2025-02-06-à-10.08.36.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.26.46.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.08.53.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.09.06.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.09.16.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.09.29.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.09.45.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.10.00.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.27.04.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.27.16.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.10.16.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.10.38.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.10.49.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.11.05.png",
         "lib/media/capture-d’écran-2025-02-06-à-10.11.17.png",
-        "lib/media/capture-d’écran-2025-02-06-à-10.11.38.png"
+        "lib/media/capture-d’écran-2025-02-06-à-10.11.38.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.27.49.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.27.59.png",
+        "lib/media/capture-d’écran-2025-02-06-à-15.28.14.png"
       ]
     },
-    "Ink/Drawing/2025.2.3 - 13.52pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 580276,
-      "exportedPath": "ink/drawing/2025.2.3-13.52pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.4 - 10.19am.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 1839,
-      "exportedPath": "ink/drawing/2025.2.4-10.19am.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.4 - 10.20am.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 61798,
-      "exportedPath": "ink/drawing/2025.2.4-10.20am.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.4 - 15.45pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 97129,
-      "exportedPath": "ink/drawing/2025.2.4-15.45pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.4 - 15.59pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 34231,
-      "exportedPath": "ink/drawing/2025.2.4-15.59pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.5 - 15.10pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 1835,
-      "exportedPath": "ink/drawing/2025.2.5-15.10pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.5 - 16.02pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 454252,
-      "exportedPath": "ink/drawing/2025.2.5-16.02pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.5 - 16.33pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 639819,
-      "exportedPath": "ink/drawing/2025.2.5-16.33pm.html",
-      "dependencies": []
-    },
-    "Ink/Drawing/2025.2.5 - 16.39pm.drawing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 265379,
-      "exportedPath": "ink/drawing/2025.2.5-16.39pm.html",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.3 - 13.45pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 595944,
-      "exportedPath": "ink/writing/2025.2.3-13.45pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.4 - 14.58pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 349107,
-      "exportedPath": "ink/writing/2025.2.4-14.58pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.10pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 432492,
-      "exportedPath": "ink/writing/2025.2.5-15.10pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.14pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 408914,
-      "exportedPath": "ink/writing/2025.2.5-15.14pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.18pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 53322,
-      "exportedPath": "ink/writing/2025.2.5-15.18pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.20pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 107405,
-      "exportedPath": "ink/writing/2025.2.5-15.20pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.21pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 110349,
-      "exportedPath": "ink/writing/2025.2.5-15.21pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 15.58pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 198981,
-      "exportedPath": "ink/writing/2025.2.5-15.58pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 16.08pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 122275,
-      "exportedPath": "ink/writing/2025.2.5-16.08pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 16.16pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 1283417,
-      "exportedPath": "ink/writing/2025.2.5-16.16pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 16.26pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 109277,
-      "exportedPath": "ink/writing/2025.2.5-16.26pm.writing",
-      "dependencies": []
-    },
-    "Ink/Writing/2025.2.5 - 16.28pm.writing": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 614714,
-      "exportedPath": "ink/writing/2025.2.5-16.28pm.writing",
-      "dependencies": []
-    },
     "lib/media/capture-d’écran-2025-02-06-à-10.08.36.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 105660,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.08.36.png",
       "dependencies": []
     },
+    "lib/media/capture-d’écran-2025-02-06-à-15.26.46.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 95041,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.26.46.png",
+      "dependencies": []
+    },
     "lib/media/capture-d’écran-2025-02-06-à-10.08.53.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 129995,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.08.53.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.09.06.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 104884,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.09.06.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.09.16.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 18495,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.09.16.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.09.29.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 37539,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.09.29.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.09.45.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 38437,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.09.45.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.10.00.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 66849,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.10.00.png",
       "dependencies": []
     },
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.04.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 55985,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.27.04.png",
+      "dependencies": []
+    },
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.16.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 244215,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.27.16.png",
+      "dependencies": []
+    },
     "lib/media/capture-d’écran-2025-02-06-à-10.10.16.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 49706,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.10.16.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.10.38.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 80516,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.10.38.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.10.49.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 141620,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.10.49.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.11.05.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 130962,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.11.05.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.11.17.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 46064,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.11.17.png",
       "dependencies": []
     },
     "lib/media/capture-d’écran-2025-02-06-à-10.11.38.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 163755,
       "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-10.11.38.png",
       "dependencies": []
     },
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.49.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 165081,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.27.49.png",
+      "dependencies": []
+    },
+    "lib/media/capture-d’écran-2025-02-06-à-15.27.59.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 75509,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.27.59.png",
+      "dependencies": []
+    },
+    "lib/media/capture-d’écran-2025-02-06-à-15.28.14.png": {
+      "modifiedTime": 1738852115655,
+      "sourceSize": 103902,
+      "exportedPath": "lib/media/capture-d’écran-2025-02-06-à-15.28.14.png",
+      "dependencies": []
+    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738851221850,
-      "sourceSize": 12120,
+      "modifiedTime": 1738852115655,
+      "sourceSize": 2266,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 18517,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738851221850,
+      "modifiedTime": 1738852115655,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
