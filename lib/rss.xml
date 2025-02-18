@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Feb 2025 14:28:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Feb 2025 14:28:35 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
- <br><br> l'univers des issues possibles.<br>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 11:03:31 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 11:03:30 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1.html" target="_blank">ce lien</a><br><br> l'univers des issues possibles.<br>
 Un événement est une partie de cet univers. <br> l'ensemble des événements qu'on peut mesurer. <br>
 <br> et  sont dans  
 <br>Stable par passage au complémentaire
@@ -108,4 +108,33 @@ Cette variable vaut  si  est réalisé,  sinon. <br><br>Une variable aléatoire 
 -&gt; C'est un objet difficile à manipuler parce que  peut être très compliqué. <br>L'idée avec la loi, c'est de définir un objet plus simple, mais qui contient quand même l'essence de la variable . <br>La mesure  donne des nombres à des sous ensembles de  :<br>
 <img alt="Capture d’écran 2025-02-06 à 15.27.49.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.49.png"><br>
 <img alt="Capture d’écran 2025-02-06 à 15.27.59.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.59.png"><br>Pour la loi, seules comptent ces mesures. <br><br>Si  sont les valeurs prises par , la loi de  est l'ensemble des couples<br>
-On conserve seulement les images de la fonction  et la taille des sous-ensembles de  qui font que  prenne chaque valeur. <br><img alt="Capture d’écran 2025-02-06 à 15.28.14.png" src="lib/media/capture-d’écran-2025-02-06-à-15.28.14.png">]]></description><link>enseignement/5-probabilites/cm1.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM1.md</guid><pubDate>Thu, 06 Feb 2025 14:28:22 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-06-à-10.08.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+On conserve seulement les images de la fonction  et la taille des sous-ensembles de  qui font que  prenne chaque valeur. <br><img alt="Capture d’écran 2025-02-06 à 15.28.14.png" src="lib/media/capture-d’écran-2025-02-06-à-15.28.14.png">]]></description><link>enseignement/5-probabilites/cm1.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM1.md</guid><pubDate>Tue, 18 Feb 2025 10:35:48 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-06-à-10.08.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CM2]]></title><description><![CDATA[ 
+ <br>Lancer d'une pièce<br>
+ vaut  si pile,  si face.<br>
+ vaut  si pile,  si face.<br>
+<img alt="Capture d’écran 2025-02-18 à 11.36.01.png" src="lib/media/capture-d’écran-2025-02-18-à-11.36.01.png"><br>
+<img alt="Capture d’écran 2025-02-18 à 11.36.22.png" src="lib/media/capture-d’écran-2025-02-18-à-11.36.22.png"><br><img alt="Capture d’écran 2025-02-18 à 11.36.35.png" src="lib/media/capture-d’écran-2025-02-18-à-11.36.35.png"><br>
+<img alt="Capture d’écran 2025-02-18 à 11.37.11.png" src="lib/media/capture-d’écran-2025-02-18-à-11.37.11.png"><br>
+<img alt="Capture d’écran 2025-02-18 à 11.37.23.png" src="lib/media/capture-d’écran-2025-02-18-à-11.37.23.png"><br>Quelle est la loi d'une variable aléatoire indicatrice d'un événement ? <br><img alt="Capture d’écran 2025-02-18 à 11.37.37.png" src="lib/media/capture-d’écran-2025-02-18-à-11.37.37.png"><br>Comment décrire une loi ? <br><br>En notant , la densité d'une loi discrète est une fonction<br>
+telle que pour tout ,<br>
+<br>On peut représenter le graphe de  : <img alt="Capture d’écran 2025-02-18 à 11.37.48.png" src="lib/media/capture-d’écran-2025-02-18-à-11.37.48.png"><br>Représenter le diagramme “en bâtons” de la loi de probabilité de la somme des nombres obtenus lors du jet de deux dés équilibrés.<br>
+<img alt="Capture d’écran 2025-02-18 à 11.37.59.png" src="lib/media/capture-d’écran-2025-02-18-à-11.37.59.png"><br><img alt="Capture d’écran 2025-02-18 à 11.38.10.png" src="lib/media/capture-d’écran-2025-02-18-à-11.38.10.png"><br>Quelle est la probabilité que  soit compris entre  et  <br>
+<br>Wooclap<br>
+<img alt="Capture d’écran 2025-02-18 à 11.38.19.png" src="lib/media/capture-d’écran-2025-02-18-à-11.38.19.png">
+<br><br>Si  est une variable aléatoire, sa fonction de répartition  est telle que, pour tout  réel : <br><img alt="Capture d’écran 2025-02-18 à 11.38.30.png" src="lib/media/capture-d’écran-2025-02-18-à-11.38.30.png"><br><img alt="Capture d’écran 2025-02-18 à 11.38.40.png" src="lib/media/capture-d’écran-2025-02-18-à-11.38.40.png"><br>
+<img alt="Capture d’écran 2025-02-18 à 11.39.03.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.03.png"><img alt="Capture d’écran 2025-02-18 à 11.39.10.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.10.png"><br>La fonction   est : <br>
+<br>croissante
+<br>continue à droite
+<br>
+<br>.
+<br>Peut-on retrouver la fonction de répartition à partir de la densité ?<br>
+<img alt="Capture d’écran 2025-02-18 à 11.39.26.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.26.png"><br><br>Si  est continue, on ne peut plus considérer , car ces probabilités valent .<br>
+<img alt="Capture d’écran 2025-02-18 à 11.39.37.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.37.png"><br><br>Si  est une variable aléatoire, sa fonction de répartition est  telle que, pour tout  réel : <br><br>La fonction   est : <br>
+<br>croissante
+<br>continue à droite
+<br>
+<br>.<br>
+<img alt="Capture d’écran 2025-02-18 à 11.39.48.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.48.png">
+<br><img alt="Capture d’écran 2025-02-18 à 11.39.57.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.57.png"><br><br>C'est une fonction qui joue le même rôle que dans le cas discret,<br>
+<img alt="Capture d’écran 2025-02-18 à 11.40.16.png" src="lib/media/capture-d’écran-2025-02-18-à-11.40.16.png"><br><img alt="Capture d’écran 2025-02-18 à 11.40.28.png" src="lib/media/capture-d’écran-2025-02-18-à-11.40.28.png"><br><br><br><img alt="Capture d’écran 2025-02-18 à 11.41.24.png" src="lib/media/capture-d’écran-2025-02-18-à-11.41.24.png"><br><br>Toutes les valeurs sont equiprobables,<br>
+La probabilité de tomber dans un intervalle est proportionnel à sa longueur. <br>Proportion du sol recouvert par un pot de peinture renversé ? ]]></description><link>enseignement/5-probabilites/cm2.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM2.md</guid><pubDate>Tue, 18 Feb 2025 10:41:36 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-18-à-11.36.01.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-18-à-11.36.01.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
