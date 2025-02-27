@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 11:03:31 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 11:03:30 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 27 Feb 2025 12:47:31 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 27 Feb 2025 12:47:28 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
  <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1.html" target="_blank">ce lien</a><br><br> l'univers des issues possibles.<br>
 Un événement est une partie de cet univers. <br> l'ensemble des événements qu'on peut mesurer. <br>
 <br> et  sont dans  
@@ -108,8 +108,8 @@ Cette variable vaut  si  est réalisé,  sinon. <br><br>Une variable aléatoire 
 -&gt; C'est un objet difficile à manipuler parce que  peut être très compliqué. <br>L'idée avec la loi, c'est de définir un objet plus simple, mais qui contient quand même l'essence de la variable . <br>La mesure  donne des nombres à des sous ensembles de  :<br>
 <img alt="Capture d’écran 2025-02-06 à 15.27.49.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.49.png"><br>
 <img alt="Capture d’écran 2025-02-06 à 15.27.59.png" src="lib/media/capture-d’écran-2025-02-06-à-15.27.59.png"><br>Pour la loi, seules comptent ces mesures. <br><br>Si  sont les valeurs prises par , la loi de  est l'ensemble des couples<br>
-On conserve seulement les images de la fonction  et la taille des sous-ensembles de  qui font que  prenne chaque valeur. <br><img alt="Capture d’écran 2025-02-06 à 15.28.14.png" src="lib/media/capture-d’écran-2025-02-06-à-15.28.14.png">]]></description><link>enseignement/5-probabilites/cm1.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM1.md</guid><pubDate>Tue, 18 Feb 2025 10:35:48 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-06-à-10.08.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CM2]]></title><description><![CDATA[ 
- <br>Lancer d'une pièce<br>
+On conserve seulement les images de la fonction  et la taille des sous-ensembles de  qui font que  prenne chaque valeur. <br><img alt="Capture d’écran 2025-02-06 à 15.28.14.png" src="lib/media/capture-d’écran-2025-02-06-à-15.28.14.png">]]></description><link>enseignement/5-probabilites/cm1-evénements,-variables-aléatoires.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM1 - Evénements, Variables aléatoires.md</guid><pubDate>Tue, 18 Feb 2025 11:04:40 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-06-à-10.08.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-06-à-10.08.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[CM2 - Lois, densité, fonctions de répartition]]></title><description><![CDATA[ 
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm2.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm2.html" target="_blank">ce lien</a><br><br>Lancer d'une pièce<br>
  vaut  si pile,  si face.<br>
  vaut  si pile,  si face.<br>
 <img alt="Capture d’écran 2025-02-18 à 11.36.01.png" src="lib/media/capture-d’écran-2025-02-18-à-11.36.01.png"><br>
@@ -137,4 +137,94 @@ telle que pour tout ,<br>
 <img alt="Capture d’écran 2025-02-18 à 11.39.48.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.48.png">
 <br><img alt="Capture d’écran 2025-02-18 à 11.39.57.png" src="lib/media/capture-d’écran-2025-02-18-à-11.39.57.png"><br><br>C'est une fonction qui joue le même rôle que dans le cas discret,<br>
 <img alt="Capture d’écran 2025-02-18 à 11.40.16.png" src="lib/media/capture-d’écran-2025-02-18-à-11.40.16.png"><br><img alt="Capture d’écran 2025-02-18 à 11.40.28.png" src="lib/media/capture-d’écran-2025-02-18-à-11.40.28.png"><br><br><br><img alt="Capture d’écran 2025-02-18 à 11.41.24.png" src="lib/media/capture-d’écran-2025-02-18-à-11.41.24.png"><br><br>Toutes les valeurs sont equiprobables,<br>
-La probabilité de tomber dans un intervalle est proportionnel à sa longueur. <br>Proportion du sol recouvert par un pot de peinture renversé ? ]]></description><link>enseignement/5-probabilites/cm2.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM2.md</guid><pubDate>Tue, 18 Feb 2025 10:41:36 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-18-à-11.36.01.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-18-à-11.36.01.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+La probabilité de tomber dans un intervalle est proportionnel à sa longueur. <br>Proportion du sol recouvert par un pot de peinture renversé ? ]]></description><link>enseignement/5-probabilites/cm2-lois,-densité,-fonctions-de-répartition.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM2 - Lois, densité, fonctions de répartition.md</guid><pubDate>Thu, 27 Feb 2025 12:45:47 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-18-à-11.36.01.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-18-à-11.36.01.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lois classiques]]></title><description><![CDATA[ 
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm3.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm3.html" target="_blank">ce lien</a><br><br><br><br>Un dé,<br>
+Choix d'un élément dans un ensemble<br>
+<img alt="Capture d’écran 2025-02-27 à 13.33.06.png" src="lib/media/capture-d’écran-2025-02-27-à-13.33.06.png"><br><br>Expérience avec deux résultats possibles<br>
+Paramètre  : probabilité de réussite<br>
+loi :<br>
+<img alt="Capture d’écran 2025-02-27 à 13.33.33.png" src="lib/media/capture-d’écran-2025-02-27-à-13.33.33.png"><br>
+<br><br>On répète  expériences de Bernoulli () indépendantes<br>
+Compte le nombre de succès<br>
+loi : <img alt="Capture d’écran 2025-02-27 à 13.33.50.png" src="lib/media/capture-d’écran-2025-02-27-à-13.33.50.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.34.01.png" src="lib/media/capture-d’écran-2025-02-27-à-13.34.01.png"><br><br>Compte le nombre d'expériences de Bernoulli pour voir un premier succès. Paramètre $<br>
+<img alt="Capture d’écran 2025-02-27 à 13.34.20.png" src="lib/media/capture-d’écran-2025-02-27-à-13.34.20.png"><br><br>Compte le nombre d'événements qui se produisent dans un intervalle de temps.<br>
+Si un événement arrive en moyenne  fois par an, probabilité qu'il arrive  fois cette année : <br><br><img alt="Capture d’écran 2025-02-27 à 13.34.33.png" src="lib/media/capture-d’écran-2025-02-27-à-13.34.33.png"><br><br>On lance une pièce de monnaie  fois <br>
+<br>Déterminer la loi du nombre de pile
+<br>Déterminer la loi du nombre de pile avant le premier face. 
+<br><img alt="Capture d’écran 2025-02-27 à 13.34.46.png" src="lib/media/capture-d’écran-2025-02-27-à-13.34.46.png">
+<br><br><img alt="Capture d’écran 2025-02-27 à 13.34.57.png" src="lib/media/capture-d’écran-2025-02-27-à-13.34.57.png"><br><br>Tirer un nombre aléatoire dans un intervalle<br>
+<br>
+<img alt="Capture d’écran 2025-02-27 à 13.35.08.png" src="lib/media/capture-d’écran-2025-02-27-à-13.35.08.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.35.16.png" src="lib/media/capture-d’écran-2025-02-27-à-13.35.16.png"><br><br>Modélise des temps d'attente, des durées de vies.<br>
+<img alt="Capture d’écran 2025-02-27 à 13.35.34.png" src="lib/media/capture-d’écran-2025-02-27-à-13.35.34.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.35.46.png" src="lib/media/capture-d’écran-2025-02-27-à-13.35.46.png"><br><br>La loi des erreurs<br>
+La taille des individus dans une population<br>
+Prévoir le prix d'une action<br>
+Résultats d'un test de QI<br>
+<br>
+<img alt="Capture d’écran 2025-02-27 à 13.36.01.png" src="lib/media/capture-d’écran-2025-02-27-à-13.36.01.png"><br>
+<br>Les lois sont caractérisées par leur densité :<br>
+Une fonction  positive, continue et d'intégrale  définit une loi. <br>Montrer que  est une densité. <br><br><br>La définition de l'espérance d'une variable aléatoire  dépend de si elle est discrète ou continue :  <br><br>Pour une variable aléatoire discrète qui peut prendre les valeurs  :<br>
+<br>L'espérance mesure combien on peut "espérer" pour . <br>On l'appelle aussi Moyenne<br><br>
+<br>
+Quelle est l'espérance d'une variable aléatoire indicatrice de l'événement  ?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.36.14.png" src="lib/media/capture-d’écran-2025-02-27-à-13.36.14.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.36.28.png" src="lib/media/capture-d’écran-2025-02-27-à-13.36.28.png">
+
+<br>
+A la roulette, si on mise sur un numéro entre  et  et que la boule atterit sur ce numéro, on remporte 35 fois sa mise et on récupère la mise.<br>
+Quelle est notre espérance de gain en misant  euros ?
+
+<br><img alt="Capture d’écran 2025-02-27 à 13.36.37.png" src="lib/media/capture-d’écran-2025-02-27-à-13.36.37.png"><br>
+<br>On peut aussi faire un pari simple : la mise est placée soit sur pair ou impair, soit sur manque (numéros de 1 à 18) ou passe (numéros de 19 à 36). 
+
+<br>Le joueur gagne 2 fois sa mise si le pari est bon. 
+<br>Si le 0 sort, la mise perd la moitié de leur valeur.&nbsp;<br>
+Quelle est l'espérance de gain dans ce cas ?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.36.47.png" src="lib/media/capture-d’écran-2025-02-27-à-13.36.47.png">
+
+
+<br><br>Si la variable est continue et peut prendre des valeurs entre  et  :<br>
+<br>C'est l'analogue continu de la somme discrète. <br><br>
+<br>
+On tire un nombre réel au hasard entre  et , rappelez la densité, Calculer l'espérance.<br>
+<img alt="Capture d’écran 2025-02-27 à 13.37.09.png" src="lib/media/capture-d’écran-2025-02-27-à-13.37.09.png">
+
+<br>
+La durée de fonctionnement en heures d'un ordinateur avant sa première panne est modélisée par une variable aléatoire positive de loi exponentielle de paramètre 1/100<br>
+- Quelle est la probabilité que cette durée de fonctionnement soit comprise entre 50 et 150 heures?<br>
+- Quelle est la probabilité que l'ordinateur fonctionne moins de 100 heures?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.37.23.png" src="lib/media/capture-d’écran-2025-02-27-à-13.37.23.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.37.29.png" src="lib/media/capture-d’écran-2025-02-27-à-13.37.29.png">
+
+<br>La durée de fonctionnement en heures d'un ordinateur avant sa première panne est modélisée par une variable aléatoire positive de loi exponentielle de paramètre 1/100<br>
+- Quelle est la probabilité que cette durée de fonctionnement soit comprise entre 50 et 150 heures?<br>
+- Quelle est la probabilité que l'ordinateur fonctionne moins de 100 heures?<br><img alt="Capture d’écran 2025-02-27 à 13.37.45.png" src="lib/media/capture-d’écran-2025-02-27-à-13.37.45.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.00.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.00.png"><br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.06.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.06.png"><br><br>Pour déterminer une densité :    Il faut que l'égalité soient vraie pour tous .<br><br>On peut lier  et  : <br>Parfois, les fonctions de répartition seront plus pratiques : <br>Soient  des variables exponentielles indépendantes.<br>
+<br>Trouver la loi de .
+<br>Trouver la loi de .
+<br><br>L'espérance est linéaire :<br>
+Lien avec l'indépendance :<br>
+(La réciproque est fausse)<br><br>
+<br>Les  étudiants de l'ESTP entreposent leurs sacs dans une salle. Au moment de récupérer leurs affaires, les étudiants entrent et prennent chacun un sac au hasard.<br>
+On note  la variable aléatoire qui vaut  si le -ième étudiant a récupéré son sac,  sinon. 
+<br>
+<br>
+Quelle est la loi de  ?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.20.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.20.png">
+
+<br>
+On note  le nombre d'étudiants qui ont récupéré leur sac, trouvez une relation entre  et les .<br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.33.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.33.png">
+
+<br>
+ suit-il une loi binomiale ?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.45.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.45.png">
+
+<br>
+En moyenne, combien d'étudiants auront récupéré leur sac ?<br>
+<img alt="Capture d’écran 2025-02-27 à 13.38.55.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.55.png">
+
+]]></description><link>enseignement/5-probabilites/cm3-lois-classiques,-espérance,-variance.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM3 - Lois classiques, espérance, variance.md</guid><pubDate>Thu, 27 Feb 2025 12:45:56 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-27-à-13.33.06.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-27-à-13.33.06.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
