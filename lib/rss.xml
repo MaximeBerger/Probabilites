@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 04 Mar 2025 14:30:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 04 Mar 2025 14:30:37 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Mar 2025 10:29:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Mar 2025 10:29:38 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
  <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1-ev%C3%A9nements,-variables-al%C3%A9atoires.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1-ev%C3%A9nements,-variables-al%C3%A9atoires.html" target="_blank">ce lien</a><br><br> l'univers des issues possibles.<br>
 Un événement est une partie de cet univers. <br> l'ensemble des événements qu'on peut mesurer. <br>
 <br> et  sont dans  
@@ -227,4 +227,80 @@ On note  le nombre d'étudiants qui ont récupéré leur sac, trouvez une relati
 En moyenne, combien d'étudiants auront récupéré leur sac ?<br>
 <img alt="Capture d’écran 2025-02-27 à 13.38.55.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.55.png">
 
-]]></description><link>enseignement/5-probabilites/cm3-lois-classiques,-espérance,-variance.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM3 - Lois classiques, espérance, variance.md</guid><pubDate>Tue, 04 Mar 2025 14:30:13 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-27-à-13.33.06.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-27-à-13.33.06.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>enseignement/5-probabilites/cm3-lois-classiques,-espérance,-variance.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM3 - Lois classiques, espérance, variance.md</guid><pubDate>Tue, 04 Mar 2025 14:30:13 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-27-à-13.33.06.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-27-à-13.33.06.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ce qu'il faut retenir des TD :]]></title><description><![CDATA[ 
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-Loi-Normale-et-Statistiques.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-Loi-Normale-et-Statistiques.html" target="_blank">ce lien</a><br><br>Les lois continues et discrètes se traitent de manières différentes<br>
+<br>Une loi discrète est décrite par une liste de valeur et de probabilités
+<br>Une loi continue peut se décrire de plusieurs manières : <br>
+<br>Par la fonction de densité 	<br>
+<img alt="Capture d’écran 2025-03-06 à 09.03.52.png" src="lib/media/capture-d’écran-2025-03-06-à-09.03.52.png">
+<br>Par la fonction de répartition <br>
+<img alt="Capture d’écran 2025-03-06 à 09.04.14.png" src="lib/media/capture-d’écran-2025-03-06-à-09.04.14.png">
+<br>En fonction des situations, on utilisera plutôt l'une ou l'autre, elles sont équivalentes :<br>
+<br>D'autres fonctions permettent également de caractériser la loi, <br>
+<br>Fonction caractéristique<br>
+Ecrire cette fonction comme une intégrale :<br>
+<img alt="Capture d’écran 2025-03-06 à 09.04.30.png" src="lib/media/capture-d’écran-2025-03-06-à-09.04.30.png">
+<br><br><br>On définit la fonction  définie pour tout  dans  par<br>
+<img alt="Capture d’écran 2025-03-06 à 09.04.46.png" src="lib/media/capture-d’écran-2025-03-06-à-09.04.46.png"><br>
+<br>Montrer que c'est une densité
+<br><img alt="Capture d’écran 2025-03-06 à 09.05.04.png" src="lib/media/capture-d’écran-2025-03-06-à-09.05.04.png"><br>
+<br>
+Ecrire l'intégrale définissant l'espérance de cette loi.<br>
+Donner un équivalent de la fonction intégrée lorsque  tend vers l'infini.<br>
+En déduire que cette loi n'admet pas d'espérance.<br>
+<img alt="Capture d’écran 2025-03-06 à 09.05.29.png" src="lib/media/capture-d’écran-2025-03-06-à-09.05.29.png">
+
+<br>
+Construire une loi qui possède une espérance mais pas de variance.<br>
+<img alt="Capture d’écran 2025-03-06 à 09.06.02.png" src="lib/media/capture-d’écran-2025-03-06-à-09.06.02.png">
+
+<br>Quel est le rapport entre la réalisation d'une variable aléatoire et son espérance ? <br><br><br>Si  sont des variables aléatoires indépendantes et de même loi qui admettent une espérance :<br>
+On a la convergence<br>
+<br>Quand on fait la moyenne d'un nombre suffisant de réalisations, on se rapproche de l'espérance. <br><br>On considère une pièce de monnaie, comment peut-on être sûr que la pièce est équilibrée ? <br>
+<br>Que signifie une pièce équilibrée sur l'espérance ? 
+<br>Combien de lancers faut-il faire pour être sûr de la réponse ? 
+<br><img alt="Capture d’écran 2025-03-06 à 09.06.18.png" src="lib/media/capture-d’écran-2025-03-06-à-09.06.18.png">
+<br>On considère une élection entre deux candidats  et . Chaque votant  représente une variable aléatoire  tel que <br>
+<br> si  vote pour 
+<br> si  vote pour 
+<br>
+<br>A quoi correspond la somme  ? 
+<br>Les  suivent-ils tous la même loi ? 
+<br>Les  sont-ils indépendants ? 
+<br><img alt="Capture d’écran 2025-03-06 à 09.06.35.png" src="lib/media/capture-d’écran-2025-03-06-à-09.06.35.png"><br><img alt="Capture d’écran 2025-03-06 à 09.06.46.png" src="lib/media/capture-d’écran-2025-03-06-à-09.06.46.png"><br>On réalise un sondage, combien de personnes faut-il sonder pour connaitre le résultat de l'élection ? <br>Pour pouvoir répondre à ces questions, il faudrait avoir une vitesse de convergence de la moyenne empirique<br>
+ vers .<br>
+C'est le but du prochain théorème, <br><br><br>Si des variables aléatoires  sont indépendantes et de même loi telles que  et  existent,<br>
+Alors la loi de la variable aléatoire  converge vers la loi normale centrée réduite.<br>
+<img alt="Capture d’écran 2025-03-06 à 09.07.27.png" src="lib/media/capture-d’écran-2025-03-06-à-09.07.27.png"><br><br><br><img alt="Capture d’écran 2025-03-06 à 09.07.43.png" src="lib/media/capture-d’écran-2025-03-06-à-09.07.43.png"><br>Mais c'est quoi la loi normale centrée réduite ?<br><br>La loi Normale centrée réduite admet pour fonction de densité<br>
+<br><br>On la note<br>
+Souvent on note  sa fonction de répartition et on donne certaines valeurs :<br>
+On peut lire les valeurs de  dans le tableau suivant :<br>
+<img alt="Capture d’écran 2025-03-05 à 15.58.36.png" src="lib/media/capture-d’écran-2025-03-05-à-15.58.36.png"><br>
+<br>Donner la valeur de  et en déduire la probabilité qu'une variable aléatoire suivant une loi normale centrée réduite soit positive. 
+<br> vaut , une variable aléatoire suivant une loi normale a autant de chances d'être positive que négative. <br>
+<br>
+Donner les valeurs de , <br>
+<img alt="Capture d’écran 2025-03-06 à 10.59.03.png" src="lib/media/capture-d’écran-2025-03-06-à-10.59.03.png">
+
+<br>
+Donner la valeur de <br>
+<img alt="Capture d’écran 2025-03-06 à 11.00.55.png" src="lib/media/capture-d’écran-2025-03-06-à-11.00.55.png">
+
+<br>
+Donner la proba qu'une loi normale centrée réduite soit supérieure à 1.96.<br>
+Donner la proba qu'une loi normale centrée réduite soit supérieure à 2.58.<br>
+<img alt="Capture d’écran 2025-03-06 à 11.01.48.png" src="lib/media/capture-d’écran-2025-03-06-à-11.01.48.png">
+
+<br>
+
+<br>ner la proba qu'une loi normale centrée réduite soit comprise dans l'intervalle <br>
+<img alt="Capture d’écran 2025-03-06 à 11.01.09.png" src="lib/media/capture-d’écran-2025-03-06-à-11.01.09.png"><br>
+<img alt="Capture d’écran 2025-03-06 à 11.01.27.png" src="lib/media/capture-d’écran-2025-03-06-à-11.01.27.png">
+
+
+<br>
+Donner la proba qu'une loi normale centrée réduite soit comprise dans l'intervalle<br>
+<br>
+<img alt="Capture d’écran 2025-03-06 à 11.02.43.png" src="lib/media/capture-d’écran-2025-03-06-à-11.02.43.png">
+
+<br>Lancer d'un dé à  faces, au bout de combien de lancer ou on ne voit pas de  on commence à avoir des doutes ? <br>Plan informel : (voir CM5)<br><img alt="Capture d’écran 2025-03-06 à 11.03.41.png" src="lib/media/capture-d’écran-2025-03-06-à-11.03.41.png">]]></description><link>enseignement/5-probabilites/cm4-loi-normale-et-statistiques.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM4 - Loi Normale et Statistiques.md</guid><pubDate>Thu, 06 Mar 2025 10:29:24 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-03-06-à-09.03.52.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-03-06-à-09.03.52.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
