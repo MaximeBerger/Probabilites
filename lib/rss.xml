@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Mar 2025 10:29:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Mar 2025 10:29:38 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ESTP]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>ESTP</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Mar 2025 21:26:22 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Mar 2025 21:26:20 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Définitions de base]]></title><description><![CDATA[ 
  <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1-ev%C3%A9nements,-variables-al%C3%A9atoires.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm1-ev%C3%A9nements,-variables-al%C3%A9atoires.html" target="_blank">ce lien</a><br><br> l'univers des issues possibles.<br>
 Un événement est une partie de cet univers. <br> l'ensemble des événements qu'on peut mesurer. <br>
 <br> et  sont dans  
@@ -228,7 +228,7 @@ En moyenne, combien d'étudiants auront récupéré leur sac ?<br>
 <img alt="Capture d’écran 2025-02-27 à 13.38.55.png" src="lib/media/capture-d’écran-2025-02-27-à-13.38.55.png">
 
 ]]></description><link>enseignement/5-probabilites/cm3-lois-classiques,-espérance,-variance.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM3 - Lois classiques, espérance, variance.md</guid><pubDate>Tue, 04 Mar 2025 14:30:13 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-02-27-à-13.33.06.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-02-27-à-13.33.06.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ce qu'il faut retenir des TD :]]></title><description><![CDATA[ 
- <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-Loi-Normale-et-Statistiques.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-Loi-Normale-et-Statistiques.html" target="_blank">ce lien</a><br><br>Les lois continues et discrètes se traitent de manières différentes<br>
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-loi-normale-et-statistiques.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm4-loi-normale-et-statistiques.html" target="_blank">ce lien</a><br><br>Les lois continues et discrètes se traitent de manières différentes<br>
 <br>Une loi discrète est décrite par une liste de valeur et de probabilités
 <br>Une loi continue peut se décrire de plusieurs manières : <br>
 <br>Par la fonction de densité 	<br>
@@ -303,4 +303,64 @@ Donner la proba qu'une loi normale centrée réduite soit comprise dans l'interv
 <br>
 <img alt="Capture d’écran 2025-03-06 à 11.02.43.png" src="lib/media/capture-d’écran-2025-03-06-à-11.02.43.png">
 
-<br>Lancer d'un dé à  faces, au bout de combien de lancer ou on ne voit pas de  on commence à avoir des doutes ? <br>Plan informel : (voir CM5)<br><img alt="Capture d’écran 2025-03-06 à 11.03.41.png" src="lib/media/capture-d’écran-2025-03-06-à-11.03.41.png">]]></description><link>enseignement/5-probabilites/cm4-loi-normale-et-statistiques.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM4 - Loi Normale et Statistiques.md</guid><pubDate>Thu, 06 Mar 2025 10:29:24 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-03-06-à-09.03.52.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-03-06-à-09.03.52.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br>Lancer d'un dé à  faces, au bout de combien de lancer ou on ne voit pas de  on commence à avoir des doutes ? <br>Plan informel : (voir CM5)<br><img alt="Capture d’écran 2025-03-06 à 11.03.41.png" src="lib/media/capture-d’écran-2025-03-06-à-11.03.41.png">]]></description><link>enseignement/5-probabilites/cm4-loi-normale-et-statistiques.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM4 - Loi Normale et Statistiques.md</guid><pubDate>Thu, 06 Mar 2025 10:36:57 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-03-06-à-09.03.52.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-03-06-à-09.03.52.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Un premier intervalle de confiance]]></title><description><![CDATA[ 
+ <br>La version interactive de ce cours est disponible sur <a data-tooltip-position="top" aria-label="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm5-intervalles-de-confiance-%C3%A9nonc%C3%A9.html" rel="noopener nofollow" class="external-link" href="https://maximeberger.github.io/Probabilites/enseignement/5-probabilites/cm5-intervalles-de-confiance-%C3%A9nonc%C3%A9.html" target="_blank">ce lien</a><br><br>Vous téléphonez souvent à votre grande tante, chaque semaine.<br>
+Vous notez la durée des appels au fil des semaines :<br>
+<br>Vous cherchez à modéliser la loi de cette durée pour essayer d'estimer la probabilité que le prochaine appel dure plus de  heures. <br>
+<br>Par quelle loi classique peut-on modéliser la durée du prochain appel ? 
+<br>Rappelez l'espérance et la variance de cette loi. 
+<br>A l'aide des  données, quelle valeur pouvez-vous estimer pour le paramètre de cette loi ?  Quel théorème valide votre estimation ? 
+<br>On aimerait quantifier la qualité de cette estimation, énoncer le théorème central limite dans cette situation. 
+<br>Donner un intervalle dans lequel tombe une variable qui suit une loi normale centrée réduite avec une probabilité 99%
+<br>En déduire un intervalle dans lequel tombe votre estimation avec une probabilité de 99%
+<br><br>Reprenons le tableau des valeurs de .<br>
+<img alt="Capture d’écran 2025-03-05 à 15.58.36.png" src="lib/media/capture-d’écran-2025-03-05-à-15.58.36.png"><br>
+<br>Donner la probabilité qu'une loi normale soit inférieure à . 
+<br>Donner la probabilité qu'une loi normale soit comprise entre  et  
+<br>Donner la valeur de l'intégrale<br>
+
+<br>Donner la valeur  telle qu'une loi normale est inférieure à  avec probabilité 80%
+<br>Donner la valeur  telle qu'une loi normale est comprise dans l'intervalle  avec probabilité 80%. 
+<br><br>Il n'existe pas que la loi normale centrée réduite, on peut construire toute une famille de lois normales en la décalant horizontalement et en multipliant par une constante. Ces lois servent par exemple : <br>
+<br>
+Le poids des tomates produites par un jardinier obéit à une loi normale de moyenne 200&nbsp;grammes et d'écart type 40&nbsp;grammes.
+
+<br>
+Une usine fabrique des barres métalliques de longueur 2, la longueur d'une barre donnée n'est jamais exactement 2. Elle suit une loi normale d'espérance 2, et de variance dépendant de la précision des machines.
+
+<br>Souvent, on note  l'espérance,  la variance.<br>
+La loi  a pour densité<br>
+<br>On se ramène toujours à une loi centrée réduite :<br>
+Si X suit une loi normale , alors<br>
+Reprendre le tableau de la fonction de répartition de la loi normale centrée réduite et déterminer : <br>
+<br>La probabilité qu'une loi normale  soit inférieure à . 
+<br>La probabilité qu'une loi normale  soit inférieure à .
+<br><br>Le poids des tomates produites par un jardinier obéit à une loi normale de moyenne 200&nbsp;grammes et d'écart type 40&nbsp;grammes.<br>
+<br>
+Quelle est la probabilité qu'une tomate pèse moins de 200g ? 
+
+<br>
+Quelle est la probabilité qu'une tomate pèse entre 100 et 300g ? 
+
+<br>
+Quelle est la probabilité qu'une tomate ait un poids négatif ? 
+
+<br>
+Donner un intervalle dans tombe lequel le poids d'une tomate avec une probabilité de 95%
+
+<br>
+On récolte des tomates dont le poids est le suivant :<br>
+On suppose que la loi de distribution du poids des tomates est toujours une loi normale, avec le même écart-type de g. 
+
+<br>
+Donner un intervalle de confiance à 99% pour l'espérance de la nouvelle récolte. 
+
+<br>
+Le vendeur de graines annonçait une récolte suivant une loi . Si c'est bien le cas, quelle est la probabilité d'avoir récolté ces tomates ? 
+
+<br>
+A quel point croyez-vous aux données du vendeur ? 
+
+<br><br>Par exemple sondage pour élection entre deux candidats  et .<br>
+on tire un échantillon  ces variables suivent une loi de Bernoulli<br>
+<br>Sur un échantillon de n = 1000 électeurs interrogés, X = 540 personnes déclarent qu’elles voteront pour le candidat A.<br>• Déterminer l’estimation ponctuelle \hat{p} de la proportion de votes en faveur du candidat A.<br>• Calculer un intervalle de confiance à 95 % pour la proportion p.<br>• Que peut-on conclure sur les chances de victoire du candidat A à partir de cet intervalle de confiance ?<br>• L’intervalle contient-il la valeur p = 0.5 correspondant à un partage égal des votes ? Que signifie ce résultat en termes d’incertitude sur l’élection ?]]></description><link>enseignement/5-probabilites/cm5-intervalles-de-confiance-énoncé.html</link><guid isPermaLink="false">Enseignement/5 - Probabilites/CM5 - Intervalles de confiance - énoncé.md</guid><pubDate>Thu, 06 Mar 2025 21:26:05 GMT</pubDate><enclosure url="lib/media/capture-d’écran-2025-03-05-à-15.58.36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/capture-d’écran-2025-03-05-à-15.58.36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
